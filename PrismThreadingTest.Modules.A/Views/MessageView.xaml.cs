@@ -24,10 +24,5 @@ namespace PrismThreadingTest.Modules.A.Views
         {
             InitializeComponent();
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            Console.WriteLine("Button Click Event fired.");
-        }
     }
 }

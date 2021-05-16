@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PrismThreadingTest": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
